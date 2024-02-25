@@ -55,4 +55,4 @@ apt install unzip python3 -y
 
 # - Execulta instalador
 [[ -e Plus ]] && rm Plus
-wget raw.githubusercontent.com/PhoenixxZ2023/PLUS/main/Plus && chmod 777 Plus && ./Plus
+wget raw.githubusercontent.com/PLAZANETVPN/PLUS/main/Plus && chmod 777 Plus && ./Plus
