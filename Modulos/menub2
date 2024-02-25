@@ -32,13 +32,13 @@
                         rm -f install.sh; apt-get update -y; apt-get upgrade -y; wget --no-cache "https://raw.githubusercontent.com/prjkt-nv404/VoltsshX/main/voltx.sh" -O install.sh >/dev/null 2>&1; chmod 777 install.sh;./install.sh; rm -f install.sh
                         ;;
                         4 | 04)
-                        bash <(curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/WireGuard/master/wireguard-install.sh)
+                        bash <(curl -sL https://raw.githubusercontent.com/PLAZANETVPN/WireGuard/master/wireguard-install.sh)
                         ;;
                         5 | 05)
-                        bash <(curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/OpenVPN/master/openvpn-install.sh)
+                        bash <(curl -sL https://raw.githubusercontent.com/PLAZANETVPN/OpenVPN/master/openvpn-install.sh)
                         ;;
                         6 | 06)
-                        bash <(curl -sL https://raw.githubusercontent.com//PhoenixxZ2023/ws-epro/main/install.sh)
+                        bash <(curl -sL https://raw.githubusercontent.com//PLAZANETVPN/ws-epro/main/install.sh)
                         ;;
 			7 | 07)
                         GoLang.sh
